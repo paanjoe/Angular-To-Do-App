@@ -2,6 +2,14 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.3.
 
+# Demo Link: <a href="https://todo-backend-c0883.web.app/"> DEMO </a>
+
+## Profile:
+<ul>
+          <li><b>LinkedIn:</b><a href="https://www.linkedin.com/in/mohd-farhan-muhamad-fazli-693b7912b/" target="_blank"> LinkedIn</a></li>
+          <li><b>GitHub:</b><a href="https://github.com/paanjoe" target="_blank"> GitHub Profile</a></li>
+        </ul>
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
