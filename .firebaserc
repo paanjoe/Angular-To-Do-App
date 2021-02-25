@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "todo-backend-c0883": {
+      "hosting": {
+        "todo-app": [
+          "todo-backend-c0883"
+        ]
+      }
+    }
+  }
+}
